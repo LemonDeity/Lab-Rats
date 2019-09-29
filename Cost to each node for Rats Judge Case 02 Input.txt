@@ -1,0 +1,20 @@
+Finished
+Node 15 : 0
+Node 9 : 1 via 15
+Node 11 : 1 via 15
+Node 13 : 2 via 15
+Node 10 : 2 via 11
+Node 12 : 3 via 9
+Node 18 : 3 via 11
+Node 5 : 3 via 13
+Node 4 : 4 via 11
+Node 6 : 4 via 10
+Node 1 : 4 via 18
+Node 8 : 5 via 4
+Node 17 : 5 via 12
+Node 7 : 7 via 1
+Node 2 : 8 via 7
+Node 14 : 11 via 2
+
+PriorityQueue
+Node 19 : 1000 via null
